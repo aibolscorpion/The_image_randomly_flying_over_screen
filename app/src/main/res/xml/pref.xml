@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:example="http://schemas.android.com/tools"
+    >
+    <CheckBoxPreference
+        android:key="screensaver"
+        android:summary="Enable screensaver"
+        android:title="Screensaver" />
+    <CheckBoxPreference
+        android:key="viewsTotal"
+        android:summary="Show viewsTotal in statusbar"
+        android:title="ViewsTotal" />
+    <EditTextPreference
+        android:key="textOnTopOfTheImage"
+        android:summary="Text that will be display on top of the image"
+        android:title="Text"/>
+    <EditTextPreference
+        android:key="urlOfImage"
+        android:summary="Source of the image"
+        android:title="URL of image"/>
+
+</PreferenceScreen>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      android:versionCode="1"
+      android:versionName="1.0" package="com.smart.taskbar">
+    <application
+        android:label="Yuksel Screensaver"
+        android:icon="@drawable/ic_launcher">
+        <activity android:name=".MainActivity"
+            android:label="Yuksel Screensaver">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".PrefActivity"
+            android:label="PrefActivity">
+        </activity>
+        <uses-sdk
+            android:targetSdkVersion="23">
+            </uses-sdk>
+	<service android:name=".HUD"
+        android:exported="true" />
+    </application>
+ <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+</manifest> 

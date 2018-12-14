@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="">
+    <CheckBoxPreference android:key="screensaver" android:summary="Enable screensaver"
+        android:title="Screensaver" />
+    <CheckBoxPreference android:key="images" android:summary="Enable images clickable"
+        android:title="Images" />
+    <CheckBoxPreference android:key="viewsTotal" android:summary="show viewsTotal in statusbar"
+        android:title="ViewsTotal" />
+    <EditTextPreference android:key="textOnTopOfTheImage"
+        android:summary="Text that will be display on top of the image" android:title="Text" />
+    <EditTextPreference android:key="urlWhenPress"
+        android:summary=" URL that will be opened when the image is pressed" android:title="URL" />
+
+    <EditTextPreference android:key="urlOfImage" android:summary="Source of the image"
+        android:title="URL of image" />
+
+</PreferenceScreen>

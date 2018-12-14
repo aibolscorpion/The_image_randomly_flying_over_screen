@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:2:1-28:12
+	xmlns:android
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:4:33-60
+		INJECTED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:4:7-32
+	android:versionCode
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:3:7-30
+		INJECTED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:5:5-23:19
+	android:label
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:6:9-43
+	android:icon
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:7:9-45
+activity#com.smart.taskbar.MainActivity
+ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:8:9-14:20
+	android:label
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:9:13-47
+	android:name
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:8:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:12:27-74
+activity#com.smart.taskbar.PrefActivity
+ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:15:9-17:20
+	android:label
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:16:13-41
+	android:name
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:15:19-47
+uses-sdk
+ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:18:9-20:24
+	android:targetSdkVersion
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:19:13-42
+service#com.smart.taskbar.HUD
+ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:21:2-22:35
+	android:exported
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:22:9-32
+	android:name
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:21:11-30
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:24:2-75
+	android:name
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:24:19-72
+uses-permission#android.permission.INTERNET
+ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from D:\Programming\TBTest\app\src\main\AndroidManifest.xml:26:22-78

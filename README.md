@@ -1,4 +1,4 @@
 # The_image_randomly_flying_over_screen
 Application for fun.Small clickable images scroll over user's screen. These images are always on top of everything and pass randomly each x seconds over a randomly height and again randomly from left to right or from right to left.
-![](d2v6J8NhRjMLLWZsnXesKeY_jXODnivhlKPbohgMZ6c_RndYqi3gqUhdhZw5q3L0u9euIgRkPrGHMTrilqs0-hGLv1vAoCmxmTqE80PCTJoETB4cRyEVElqTyrtd5aTFeJ_RdwW4o5h7GtwzsL_55bfJv_v2xXVGH2p0tSGjO3DACXyLFTnk8T4Kv9uCBXyPNnbdEnHgwmJDQqRla_knxa-qwe4BnVbxKZcgys5NfsRnJBtXyUE_bkx0B6yksD9F8MCfczYTuaj_UEphxxRhWw2z4BXPgBG1fk_JNjK_tJ7D6LF5TNr2N9hlJdq6K9sP3L7sk-PTvkKWaeKGX415swlEGLS1cAlvsDCY4di69XlHgvrS42nFVmBXnzkvnHDmof8kU1ftUxRnlU5oZzBSBIZkkyQTcRyeOa02Jg2IrU8TvBfNArM9PkddW_5sbqXWj-hbIOQeMs28h4CtPBkGvHzuYJ_iDQU4yZZKksCi6EL7Z-PMXdP4IIQp4TfEFv9kf3perCxVF7T-fmB2sGR1c189z_6ptFacDkbLB9xNskXWZFLJCjwvmsv9n8muKrjPw0XpMGAKoQ=w493-h657-no)
-![](https://photos.google.com/album/AF1QipPHQZLZ-4O56p55qMK4BPzqATHVPty1aaC32SN_/photo/AF1QipNPRaQFO2eeju3kr87aa1TVTx0W1-UOIV-hyCdS?hl=ru)
+![](Снимок%20(2).PNG)
+![](Снимок2%20(1).PNG)
